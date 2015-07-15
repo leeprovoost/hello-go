@@ -6,8 +6,8 @@ import (
 )
 
 func main() {
-	var x int
-	var y int
+	var x int = 5
+	y := 9 // shorthand
 
 	x, y = swap(x, y)
 
