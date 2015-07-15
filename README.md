@@ -1,2 +1,3 @@
 # hello-go
-Private repo to test some some Go code
+
+Code snippets used during learning and testing
